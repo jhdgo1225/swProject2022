@@ -6,7 +6,7 @@
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>이달의 수산물</title>
-    <link rel="stylesheet" href="style.css">
+    <link rel="stylesheet" href="css/style.css">
 </head>
 <body>
     <header class="sys-name">
@@ -14,7 +14,7 @@
         <h2 class="sys-name__month">11월</h2>
     </header>
     <main class="sys-main">
-        <form action="pageSeletingLoc.html" method="get">
+        <form action="pageSelectLoc.jsp" method="get">
             <div class="select-seafood-box">
                 <div class="seafood mackerel">
                     <h4 class="seafood-name">고등어</h4>
